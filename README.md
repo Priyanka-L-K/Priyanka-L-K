@@ -2,7 +2,7 @@
 <img align="right" height="180px" src="https://i.pinimg.com/originals/69/b5/6d/69b56d199dc7709d88792c1a713982bc.gif" alt="image" />
 <p align="left">
  
-My name is Priyanka and I am currently a third year student at BNMIT.
+My name is Priyanka and I am currently a first year graduate student at UTA.
 - Currently, I am working on Machine Learning and Data Visualization 💻. 
 - My interest areas include Deep Learning and Web development 👩‍💻.
 
