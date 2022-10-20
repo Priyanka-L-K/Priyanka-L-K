@@ -6,7 +6,7 @@ My name is Priyanka and I am currently a first year graduate student at UTA.
 - Currently, I am working on Machine Learning and Data Visualization 💻. 
 - My interest areas include Deep Learning and Web development 👩‍💻.
 
-Check out [My Portfolio ](https://Priyanka-L-K.github.io/) | [blog](https://Priyankajournals.tech/) and you can reach me through my [Email](lkpriyanka2000@gmail.com) | [Linkedin](https://www.linkedin.com/in/priyanka-lakur/)
+Check out [My Portfolio ](https://lkpriyanka2000.wixsite.com/home) | [blog](https://Priyankajournals.tech/) and you can reach me through my [Email](lkpriyanka2000@gmail.com) | [Linkedin](https://www.linkedin.com/in/priyanka-lakur/)
 &nbsp;
 
 # 
