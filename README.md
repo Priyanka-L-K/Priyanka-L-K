@@ -37,6 +37,10 @@ I'm a passionate Data Analyst, SQL Developer and Data Engineer with expertise in
 - Developed an end-to-end data pipeline for integrating multiple data sources.
 - Implemented data validation and transformation using SQL and Python.
 
+### 🔹 [Stock Market ETL Data Pipeline Development](https://github.com/Priyanka-L-K/Real-Time-Stock-Market-Data-Streaming-System)
+- Developed an end-to-end data pipeline for integrating multiple data sources.
+- Implemented data validation and transformation using SQL and Python.
+
 ### 🔹 [Data Analysis & Visualization](#)
 - Built Power BI and Tableau dashboards for business insights.
 - Conducted data cleaning and preprocessing for accurate reporting.
