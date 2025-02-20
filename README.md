@@ -1,11 +1,12 @@
 # Hi, I'm Priyanka Lakur Krishnamurthy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img align="right" height="180px" src="https://i.pinimg.com/originals/69/b5/6d/69b56d199dc7709d88792c1a713982bc.gif" alt="image" />
-<p align="left">
 
 ## 🚀 About Me
 I'm a passionate Data Engineer, SQL Developer and Data Analyst with expertise in database design, optimization, data integration, and analytics. With experience in **Python, SQL, PL/SQL, ETL processes, data warehousing, and data visualization**, I enjoy working on **high-performance database systems** and uncovering insights from data.
 
-## 🔧 Technical Skills
+<img align="right" height="180px" src="https://i.pinimg.com/originals/69/b5/6d/69b56d199dc7709d88792c1a713982bc.gif" alt="image" />
+<p align="left">
+
+## 🔧 Technical Skills                                                  
 - **Programming**: Python, C++
 - **Databases**: SQL, PL/SQL, PostgreSQL, MySQL, Oracle
 - **Data Engineering**: ETL processes, Data Integration, Data Warehousing
@@ -13,6 +14,7 @@ I'm a passionate Data Engineer, SQL Developer and Data Analyst with expertise in
 - **Optimization**: Query Performance Tuning, Indexing, Stored Procedures
 - **Data Analysis**: Exploratory Data Analysis (EDA), Statistical Analysis, Data Cleaning
 - **Visualization**: Power BI, Tableau, Matplotlib, Seaborn
+
 
 ## 💼 Work & Projects
 - **Database Management System Optimization**: Designed and optimized SQL queries for high-volume transaction processing.
