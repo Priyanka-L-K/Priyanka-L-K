@@ -3,7 +3,7 @@
 <p align="left">
 
 ## 🚀 About Me
-I'm a passionate Data Engineer, SQL Developer, and Data Analyst with expertise in database design, optimization, data integration, and analytics. With experience in **SQL, PL/SQL, ETL processes, data warehousing, and data visualization**, I enjoy working on **high-performance database systems** and uncovering insights from data.
+I'm a passionate Data Engineer, SQL Developer and Data Analyst with expertise in database design, optimization, data integration, and analytics. With experience in **Python, SQL, PL/SQL, ETL processes, data warehousing, and data visualization**, I enjoy working on **high-performance database systems** and uncovering insights from data.
 
 ## 🔧 Technical Skills
 - **Programming**: Python, C++
@@ -15,20 +15,23 @@ I'm a passionate Data Engineer, SQL Developer, and Data Analyst with expertise i
 - **Visualization**: Power BI, Tableau, Matplotlib, Seaborn
 
 ## 💼 Work & Projects
-- **Warehouse Management System Optimization**: Designed and optimized SQL queries for high-volume transaction processing.
+- **Database Management System Optimization**: Designed and optimized SQL queries for high-volume transaction processing.
 - **ETL Pipeline Development**: Built efficient data pipelines to integrate warehouse data with enterprise systems.
-- **Backfill & UAT Validation**: Conducted data accuracy validation through backfill queries and User Acceptance Testing.
 - **PL/SQL Projects**: Developed stored procedures, triggers, and views for business-critical applications.
 - **Data Analysis Dashboards**: Created interactive dashboards to visualize trends and insights using Power BI and Tableau.
 - **Customer Behavior Analysis**: Conducted data analysis to derive customer insights and improve decision-making.
 
 ## 📂 Featured Repositories
-### 🔹 [PL/SQL Project](#) *(Coming Soon)*
+### 🔹 [Supply Chain Management using PL/SQL Project](https://github.com/Priyanka-L-K/Supply_Chain_Management_using_PL-SQL) 
 - Optimized database schema for transactional efficiency.
 - Implemented stored procedures for automated data processing.
 - Enhanced query performance using indexing and partitioning.
 
-### 🔹 [ETL Pipeline Development](#)
+### 🔹 [Uber Ride Data ETL Pipeline Development](https://github.com/Priyanka-L-K/Uber-ride-data-etl-pipeline)
+- Developed an end-to-end data pipeline for integrating multiple data sources.
+- Implemented data validation and transformation using SQL and Python.
+
+### 🔹 [Cricket Data ETL Pipeline Development](https://github.com/Priyanka-L-K/IPL-Data-Analysis-using-Spark)
 - Developed an end-to-end data pipeline for integrating multiple data sources.
 - Implemented data validation and transformation using SQL and Python.
 
