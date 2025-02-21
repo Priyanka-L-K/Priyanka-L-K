@@ -50,9 +50,9 @@ I'm a passionate Data Analyst, SQL Developer and Data Engineer with expertise in
 Currently enhancing my skills in **Data Engineering, Cloud Technologies, Advanced Query Optimization, and Data Analytics**. I also enjoy sharing knowledge through **LinkedIn posts and Medium articles**.
 
 ## 📫 Let's Connect!
-- **GitHub**: [https://github.com/priyanka-lakur](#)
-- **LinkedIn**: [https://linkedin.com/in/priyanka-lakur](#)
-- **Medium**: [https://medium.com/@priyankalakur](#)
+- **GitHub**: [github.com/priyanka-lakur](https://github.com/priyanka-lakur)
+- **LinkedIn**: [linkedin.com/in/priyanka-lakur](https://linkedin.com/in/priyanka-lakur)
+- **Medium**: [medium.com/@priyankalakur](https://medium.com/@priyankalakur)
 
 <!---
 Priyanka-L-K/Priyanka-L-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
