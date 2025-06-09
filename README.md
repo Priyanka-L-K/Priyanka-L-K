@@ -1,4 +1,4 @@
-# Hi, I'm Priyanka Lakur Krishnamurthy!
+# Hi, I'm Priyanka!
 ## 🚀 About Me
 I'm a passionate Data Analyst, SQL Developer and Data Engineer with expertise in database design, optimization, data integration, and analytics. With experience in **Python, SQL, PL/SQL, ETL processes, data warehousing, and data visualization**, I enjoy working on **high-performance database systems** and uncovering insights from data.
 
