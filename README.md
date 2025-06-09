@@ -50,7 +50,6 @@ Currently enhancing my skills in **Data Engineering, Cloud Technologies, Advance
 
 ## 📫 Let's Connect!
 - **GitHub**: [github.com/priyanka-lakur](https://github.com/priyanka-lakur)
-- **LinkedIn**: [linkedin.com/in/priyanka-lakur](https://linkedin.com/in/priyanka-lakur)
 - **Medium**: [medium.com/@priyankalakur](https://medium.com/@priyankalakur)
 
 <!---
